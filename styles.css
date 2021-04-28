@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+header{
+    background-color: white;
+    padding: 15px;
+
+}
+header h1{
+    margin: 0;
+}
+.box{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+}
+.mid img{
+    width: 500px;
+}
+p{
+    padding: 5px;
+    width: 75%;
+}
+.top{
+    display: flex;
+}
+.top h2{
+    width: 79%;
+    border: 0;
+    margin: 5px;
+}
+.top samp{
+    width: 19%;
+    float: right;
+    text-align: right;
+    margin: 15px;
+    
+}
